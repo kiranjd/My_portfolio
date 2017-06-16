@@ -6,4 +6,3 @@ $(document).ready(function () {
     $("nav ul li").not(this).removeClass("active");
   });
 })
-alert('hey');
