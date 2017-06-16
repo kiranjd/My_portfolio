@@ -6,7 +6,7 @@
   padding-top: 36px;
   padding-left: 30px;
   border-bottom:; 5px solid #fff;
-  background-color: orange;
+  background-color: blue;
   background-image: url(http://anguerde.com/pics/main/38/345524-modern-wallpaper.jpg);
   background-size: 30px 10px;
   }
@@ -45,7 +45,7 @@ nav ul li{
   text-align:center;
   font-family:Helvetica, sans-serif;
   border: 1px solid rgba(155,155,255, 0);
-  color:#0ff;
+  color:#fff;
   padding:10px 0 10px 0;
   margin:-1px -5px -1px -1px;
   cursor:pointer;
@@ -59,18 +59,18 @@ nav ul li:hover{
 }
 nav ul{
   border: 2px solid #fff ;
-  position:fixed;
+  position:relative;
   width:475px;
   padding:0;
   z-index:100;
 }
 nav div{
   position: absolute;
-  top: 18px;
+  top: 15px;
   background-image: url(https://s12.postimg.org/jrk2kocwt/trolltunga.jpg);
-  z-index:100;
-  width:159px;
-  height: 100%;
+  z-index: 100;
+  width: 159px;
+  height: 44px;
 
 }
 section {
@@ -93,7 +93,7 @@ h3 {
 }
 
 #bggg #bgg1 {
-  background-color: #001926;
-background-image: src="C:\Users\Kiran JD\Desktopdexter.jpg/*url("https://www.transparenttextures.com/patterns/bright-squares.png");*/
+ /* background-color: #001926;*/
+  /*background-image: src=url("https://www.transparenttextures.com/patterns/bright-squares.png");*/
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
