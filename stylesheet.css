@@ -95,17 +95,37 @@ section {
   font-weight: bold;
 }
 
-#about_text {
-  position: absolute;
+#abt_text {
+  position: relative;
   color: #fff;
-  top: 150px;
+/*  top: 78px;*/
+  font-size : 25px;
+  font-style: italic; 
+}
+
+#content {
+  position: relative;
+  top: 180px;
+  left: 65px;
+  color: rgb(255,165,0);
+  font-size: 29px;
+  /*font-family: aerial;*/
+  font-weight: lighter;
+  text-align: center;
+  margin-left: 313px;
+  margin-right: 314px;
+  /*font: 100 25px/1.5 'Pacifico', Helvetica, sans-serif;*/
+  font-family: 'Pacifico', Helvetica, sans-serif;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
 }
 
 .abt_head {
-  position: absolute;
+  position: relative;
   top: 180px;
-  left: 270px;
-  color: #8ff;
+  left: 70px;
+  color: #fff;
+
+  
 }
 
 body {
