@@ -13,7 +13,7 @@ h2 {
   position:fixed;
   left: 30px;
   top:  -10px;
-  font-family: sans,Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: sans, Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .top_head {
@@ -32,6 +32,7 @@ h2 {
 #pf {
    text-align:center;
    color:#fff;
+   top: 30%;
 }
 
 #pf_content {
@@ -46,15 +47,13 @@ h2 {
   /*font-family: calibri;*/
   font-weight: lighter;
   text-align: center;
-  font-family: 'Pacifico', Helvetica, sans-serif;
+  font-family:  Helvetica, sans-serif;
   text-shadow: 3px 3px 0px rgba(127,90,230,0.1), 7px 7px 0px rgba(111,12,99,0.05);
 }
 
-
-
 .social {
   position: relative;
-  margin-top: 150px;
+  margin-top: 250px;
   text-align: center;
   transform: translateY(-50%);
   z-index:0;
