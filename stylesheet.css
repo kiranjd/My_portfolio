@@ -18,7 +18,7 @@ h2 {
 
 .top_head {
   position: relative;
-  margin-left: 5px;
+  margin-left: 20px;
   color: #fff;
 }
 
@@ -29,11 +29,20 @@ h2 {
   font-style: italic;
 }
 
+#pf {
+   text-align:center;
+   color:#fff;
+}
+
+#pf_content {
+   font-size: 20px;
+}
+
 #thoughts {
   position: relative;
   color: rgb(180,165,180);
   font-size: 22px;
-  margin: 7px;
+  margin: 30px;
   /*font-family: calibri;*/
   font-weight: lighter;
   text-align: center;
@@ -45,7 +54,7 @@ h2 {
 
 .social {
   position: relative;
-  margin-top: 280px;
+  margin-top: 150px;
   text-align: center;
   transform: translateY(-50%);
   z-index:0;
